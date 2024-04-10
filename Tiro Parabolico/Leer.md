@@ -4,7 +4,7 @@
 
 ### Calculos.
 Atravez de la formulas de este problema de fisica, resolvemos el encontrar la altura y distancia de un proyectil
-Para la formula se necesitan de los siguientes datos 
+Para la formula se necesitan de los siguientes datos: 
 
 <ul>
   <li>Velocidad inicial</li>
