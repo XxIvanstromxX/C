@@ -1,2 +1,5 @@
-# C
-My whole codes on lenguaje C, practice examples of the lenguaje in engineering
+<h1>C</h1>
+
+<p>Algunos de mis codigos en lenguaje C que hice durante la ingenieria</p>
+
+![image](https://github.com/XxIvanstromxX/C/assets/157620225/8ec6858e-3f7a-4731-a8ad-b7a04206fc03)
